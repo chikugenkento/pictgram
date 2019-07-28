@@ -1,19 +1,9 @@
-<<<<<<< HEAD
-=======
 puts "はじめてのルビー"
 puts "始めました"+"ルビー"
 p 3+3
 p 3-3
 p 3*3
 p 3/3
-num_array = "1","2","3","4"
-p num_array
-name = { namae: 'chikugenkent',S: '19920211', K 'A'} 
-p name[:namae]
-p name[:s]
-p name[k]
-
->>>>>>> 3805b39e39523c0d92b7876c4c23619cc55f579f
 num = 3
 if num > 0
   p '3は0より上です。'
@@ -76,4 +66,3 @@ elsif n == 3
  else
    p 'どちらでもでもありません'
 end
-aaaa
